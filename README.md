@@ -1,4 +1,4 @@
-# LiveCTF Analysis Companion Repo
+# LiveCTF Analysis - pastez
 
 This repo contains resources for [this post](https://seeinglogic.com/posts/livectf-analysis/).
 
@@ -16,13 +16,13 @@ Good luck!
 
 If you want to watch the livestreams (which contains spoilers) for the challenge, check out the links below.
 
-Streams of player's screens: Match 13: [Blue Water](https://ctftime.org/team/205897/) vs [Norsecode](https://ctftime.org/team/110823/):
-https://www.youtube.com/live/dthkJvZcoeM?si=8_CCNMgSykCcoXJQ&t=8545
-and https://www.youtube.com/live/fzxch3C1c0w?si=jMRGbHFDxwoayE0V&t=8530, respectively or
-[combined](https://viewsync.net/watch?v=fzxch3C1c0w&t=8530&v=dthkJvZcoeM&t=8545).
+Full-screen streams, no commentary: Match 13: [Blue Water](https://ctftime.org/team/205897/) vs [Norsecode](https://ctftime.org/team/110823/):
+[Blue Water's screen](https://www.youtube.com/live/dthkJvZcoeM?si=8_CCNMgSykCcoXJQ&t=8545)
+and [Norsecode's screen](https://www.youtube.com/live/fzxch3C1c0w?si=jMRGbHFDxwoayE0V&t=8530),
+or [combined](https://viewsync.net/watch?v=fzxch3C1c0w&t=8530&v=dthkJvZcoeM&t=8545).
 
 Live-commentated stream for Match 14: [Shellphish](https://ctftime.org/team/285/) vs [P1G But S4D](https://ctftime.org/team/268242/):
-https://www.youtube.com/watch?v=LDgqaQhu7ao&list=PLmnqtYqOCF7-v2bS6O6URAYAFjdKwhRj5&index=9
+[here](https://www.youtube.com/watch?v=LDgqaQhu7ao&list=PLmnqtYqOCF7-v2bS6O6URAYAFjdKwhRj5&index=9)
 
 My manual timestamp notes from the Match 13 streams are in [timestamps dir](./timestamps/).
 
