@@ -1,14 +1,17 @@
 # LiveCTF Analysis - pastez
 
-This repo contains resources for [this post](https://seeinglogic.com/posts/livectf-analysis/).
+This repo contains resources for [this post](https://seeinglogic.com/posts/livectf-analysis/), an in-depth breakdown of match #13 of the DEF CON 31 LiveCTF event, where the challenge was called `pastez`.
+
+![DEF CON 31 LiveCTF Bracket showing the matches featuring pastez](./bracket_pastez.png)
 
 ## pastez Challenge
 
-The easiest way to play like you were in the DEF CON 31 CTF finals: start a stopwatch and open the `handout/` folder.
+The easiest way to play like you were in the DEF CON 31 CTF finals: start a stopwatch and open the `handout/` folder and stop the clock when you exploit the binary and pop a shell.
 
-If you'd rather build it from scratch, check out `build_from_scratch.sh` (requires docker) which clones and builds from the [official repo](https://github.com/Live-CTF/LiveCTF-DEFCON31).
+If you'd rather build the challenge from scratch, check out [build_from_scratch.sh](./build_from_scratch.sh) (requires docker) which clones and builds from the [official repo](https://github.com/Live-CTF/LiveCTF-DEFCON31).
+The steps are the same to build any challenge from the finals.
 
-Best time from the competition was 15 minutes 33 seconds by [Norsecode](https://norsecode.team/).
+Best time from the competition for solving `pastez` was 15 minutes 33 seconds by [Norsecode](https://norsecode.team/).
 
 Good luck!
 
