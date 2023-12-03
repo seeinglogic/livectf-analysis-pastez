@@ -17,7 +17,7 @@ Good luck!
 
 ## LiveCTF Streams
 
-If you want to watch the livestreams (which contains spoilers) for the challenge, check out the links below.
+If you want to watch the livestreams (which contain spoilers) for the challenge, check out the links below.
 
 Full-screen streams, no commentary: Match 13: [Blue Water](https://ctftime.org/team/205897/) vs [Norsecode](https://ctftime.org/team/110823/):
 [Blue Water's screen](https://www.youtube.com/live/dthkJvZcoeM?si=8_CCNMgSykCcoXJQ&t=8545)
