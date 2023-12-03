@@ -9,7 +9,7 @@ This repo contains resources for [this post](https://seeinglogic.com/posts/livec
 The easiest way to play like you were in the DEF CON 31 CTF finals: start a stopwatch and open the `handout/` folder and stop the clock when you exploit the binary and pop a shell.
 
 If you'd rather build the challenge from scratch, check out [build_from_scratch.sh](./build_from_scratch.sh) (requires docker) which clones and builds from the [official repo](https://github.com/Live-CTF/LiveCTF-DEFCON31).
-The steps are the same to build any challenge from the finals.
+The steps are the same to build any challenge from the finals, and the official repo also includes the reference solutions.
 
 Best time from the competition for solving `pastez` was 15 minutes 33 seconds by [Norsecode](https://norsecode.team/).
 
