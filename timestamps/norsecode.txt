@@ -1,0 +1,130 @@
+- 2:22:10: START
+- 2:22:45: ida: main
+- 2:22:54: vscode
+- 2:22:55: terminal
+- 2:22:56: vscode
+- 2:23:07: terminal
+    - 2:23:10: debug: script
+- 2:23:19: ida: main
+- 2:23:23: ida: rud_messages
+- 2:23:24: ida: main
+- 2:23:40: vscode:
+- 2:23:43: terminal
+    - 2:23:47: debug: target
+- 2:23:50: vscode:
+- 2:24:12: terminal
+    - 2:24:15: debug: script
+- 2:24:19: ida: main
+- 2:24:38: ida: insert_message
+- 2:24:43: ida: sanitize
+- 2:24:50: ida: bad_words
+- 2:24:52: ida: sanitize
+- 2:24:56: ida: insert_message
+- 2:24:59: ida: main
+- 2:25:00: ida: rud_messages
+- 2:25:10: ida: main
+- 2:25:15: terminal
+    - 2:25:17: debug: script
+- 2:25:33: ida: main
+- 2:25:35: ida: insert_message
+- 2:25:41: ida: main
+- 2:25:43: ida: rud_messages
+- 2:25:46: ida: delete_message
+- 2:25:50: terminal
+- 2:25:55: ida: delete_message
+- 2:25:56: ida: rud_messages
+- 2:26:01: ida: main
+- 2:26:21: ida: rud_messages
+- 2:26:24: ida: main
+- 2:26:26: ida: insert_message
+- 2:26:29: ida: sanitize
+- 2:26:33: ida: main
+- 2:26:36: ida: rud_messages
+- 2:26:37: ida: edit_message
+- 2:26:40: ida: rud_messages
+- 2:26:41: vscode
+- 2:26:42: terminal
+    - 2:26:44: debug: script
+- 2:26:52: vscode
+- 2:26:57: terminal
+- 2:27:00: vscode
+- 2:27:11: terminal
+    - 2:27:13: debug: script
+- 2:27:19: vscode
+- 2:27:24: terminal
+    - 2:27:26: debug: script
+- 2:27:30: vscode
+- 2:27:46: terminal
+    - 2:27:49: debug: script
+- 2:27:54: ida: rud_messages
+- 2:27:55: ida: edit_message
+- 2:28:07: ida: rud_messages
+- 2:28:12: ida: print_messages
+- 2:28:18: ida: main
+- 2:28:21: ida: insert_message
+- 2:28:24: ida: Structures
+- 2:28:36: ida: insert_message
+- 2:28:42: ida: Structures
+- 2:28:48: ida: insert_message
+- 2:28:55: ida: sanitize
+- 2:29:10: ida: insert_message
+- 2:29:13: ida: main
+- 2:29:19: ida: sanitize
+- 2:29:21: ida: main
+- 2:29:22: ida: insert_message
+- 2:29:24: ida: sanitize
+- 2:29:38: ida: insert_message
+- 2:29:40: ida: main
+- 2:29:45: ida: insert_message
+- 2:29:47: ida: sanitize
+- 2:30:38: ida: bad_words
+- 2:30:40: vscode
+- 2:31:06: terminal
+    - 2:31:09: debug: script
+    - 2:31:19: debug: script
+- 2:31:21: ida: bad_words
+- 2:31:24: ida: sanitize
+- 2:31:32: vscode
+- 2:31:37: terminal
+    - 2:31:38: debug: script
+    - 2:31:41 CHECKPOINT: stack buffer overflow observed
+- 2:31:45: vscode
+- 2:31:52: terminal
+    - 2:31:53: debug: script
+- 2:31:58: vscode
+- 2:31:59: terminal
+    - 2:32:03: debug: script
+- 2:32:16: vscode
+- 2:32:18: terminal
+    - 2:32:19: debug: script
+- 2:32:29: vscode
+- 2:33:03: terminal
+    - 2:33:05: debug: script
+- 2:33:14: vscode
+- 2:33:29: terminal
+    - 2:33:34: debug: script
+- 2:33:38: vscode:
+- 2:34:35: terminal
+    - 2:34:36: debug: script
+- 2:34:41: vscode
+- 2:34:52: terminal
+    - 2:34:53: debug: script
+- 2:35:00: vscode
+- 2:35:05: terminal
+    - 2:35:06: debug: script
+    - 2:35:12 CHECKPOINT: gets a infoleak printed to terminal
+- 2:35:12: vscode
+- 2:35:45: terminal
+    - 2:35:46: debug: script
+- 2:35:54: vscode
+- 2:35:59: terminal
+    - 2:36:00: debug: script
+- 2:36:10: vscode
+- 2:36:53: terminal
+    - 2:36:54: debug: script
+- 2:37:03: vscode
+- 2:37:08: terminal
+    - 2:37:09: debug: script
+- 2:37:17: vscode
+- 2:37:36: terminal
+- 2:37:43: FINISH

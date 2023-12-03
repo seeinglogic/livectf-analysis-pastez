@@ -1,0 +1,126 @@
+- 2:22:29: START
+- 2:22:54: ida: main
+- 2:23:12: ida: rud_messages
+- 2:23:14: ida: main
+- 2:23:21: ida: rud_messages
+- 2:23:24: ida: print_messages
+- 2:23:27: ida: rud_messages
+- 2:23:43: terminal
+    - 2:23:44: debug: target
+- 2:24:00: ida: rud_messages
+- 2:24:01: ida: edit_message
+- 2:24:16: ida: sanitize
+- 2:24:23: ida: edit_message
+- 2:24:28: ida: rud_messages
+- 2:24:32: ida: print_messages
+- 2:24:34: ida: rud_messages
+- 2:24:35: ida: main
+- 2:24:37: ida: insert_message
+- 2:24:48: ida: Structures
+- 2:24:56: ida: insert_message
+- 2:25:35: ida: main
+- 2:25:50: ida: rud_messages
+- 2:25:52: ida: print_messages
+- 2:25:56: ida: rud_messages
+- 2:25:57: ida: main
+- 2:26:03: ida: insert_message
+- 2:26:10: ida: sanitize
+- 2:26:17: ida: insert_message
+- 2:26:20: ida: sanitize
+- 2:26:44: ida: bad_words
+- 2:26:49: ida: Strings
+- 2:26:52: ida: sanitize
+- 2:27:28: terminal
+- 2:27:32: ida: sanitize
+- 2:27:37: ida: insert_message
+- 2:27:39: ida: main
+- 2:27:41: ida: rud_messages
+- 2:27:43: ida: edit_message
+- 2:27:46: ida: rud_messages
+- 2:27:59: ida: edit_message
+- 2:28:10: ida: rud_messages
+- 2:28:12: ida: delete_message
+- 2:28:13: ida: rud_messages
+- 2:28:15: ida: main
+- 2:28:17: ida: insert_message
+- 2:28:24: ida: sanitize
+- 2:29:14: terminal
+- 2:29:16: ida: sanitize
+- 2:29:19: terminal
+    - 2:29:20: debug: target
+- 2:29:28: ida: sanitize
+- 2:29:32: ida: bad_words
+- 2:29:43: terminal
+    - 2:29:44: debug: target
+    - 2:29:49: debug: target
+- 2:30:03: ida: sanitize
+- 2:30:19: terminal
+- 2:30:24: ida: sanitize
+- 2:30:27: terminal
+- 2:30:32: ida: sanitize
+- 2:30:37: terminal
+    - 2:30:39: debug: target
+    - 2:31:03: debug: target
+    - 2:31:05: CHECKPOINT: gets first SEGFAULT
+- 2:31:07: ida: sanitize
+- 2:31:09: terminal
+    - 2:31:10: debug: gdb
+- 2:31:26: vscode
+- 2:31:27: ida: sanitize
+- 2:31:32: terminal
+- 2:31:35: ida: sanitize
+- 2:31:39: terminal
+- 2:31:45: ida: sanitize
+- 2:32:10: ida: insert_message
+- 2:32:13: ida: main
+- 2:32:15: ida: bad_words
+- 2:32:20: terminal
+    - 2:31:10: debug: gdb
+- 2:32:39: ida: main
+- 2:32:43: ida: rud_messages
+- 2:32:45: ida: edit_message
+- 2:32:52: terminal
+- 2:32:57: ida: rud_messages
+- 2:33:00: ida: edit_message
+- 2:33:05: terminal
+- 2:33:21: vscode
+- 2:33:24: terminal
+    - 2:33:26: debug: target
+- 2:33:27: vscode
+- 2:33:37: terminal
+- 2:33:38: vscode
+- 2:33:39: terminal
+- 2:33:42: vscode
+- 2:33:46: terminal
+- 2:33:48: vscode
+- 2:33:51: terminal
+- 2:33:54: vscode
+- 2:34:02: terminal
+- 2:34:04: vscode
+- 2:34:09: terminal
+- 2:34:12: vscode
+- 2:34:14: terminal
+    - 2:34:15: debug: script
+- 2:34:24: ida: edit_message
+- 2:34:30: ida: sanitize
+- 2:34:40: ida: edit_message
+- 2:34:44: ida: rud_messages
+- 2:34:51: terminal
+    - 2:34:53: debug: script
+- 2:34:53: ida: rud_messages
+- 2:34:55: ida: main
+- 2:35:03: terminal
+- 2:35:05: vscode
+- 2:35:12: ida: main
+- 2:35:13: terminal
+    - 2:35:14: debug: script
+- 2:35:15: ida: main
+- 2:35:16: terminal
+- 2:35:18: vscode
+- 2:35:21: terminal
+    - 2:35:21: debug: script
+    - 2:35:29: debug: gdb
+- 2:36:02: ida: main
+- 2:36:04: ida: insert_message
+- 2:36:08: ida: sanitize
+- 2:38:02: FINISH
